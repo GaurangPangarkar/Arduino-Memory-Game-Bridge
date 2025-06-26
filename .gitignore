@@ -1,0 +1,30 @@
+# Arduino IDE generated files
+*.hex
+*.elf
+*.bin
+*.map
+*.eep
+*.lss
+*.sym
+*.bak
+*.tmp
+*.log
+.DS_Store
+
+# Arduino build folders
+*/build/
+build/
+/.arduino_ide/
+
+# PlatformIO related (if you ever use it)
+.pio/
+.vscode/
+
+# Arduino Library Manager
+.library.json
+
+# User specific configuration for IDE
+*.user.prefs
+
+# Visual Studio Code specific files
+.vscode/
